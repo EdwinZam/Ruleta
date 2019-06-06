@@ -1,0 +1,312 @@
+﻿Inicio: 6/07/2017 8:58 AM
+
+C:\wamp64\www\AECINDI\assets\ - con creación de carpeta
+/var/www/html/assets/AppAsset.php - operación Obtener correcta
+C:\wamp64\www\AECINDI\commands\ - con creación de carpeta
+/var/www/html/commands/HelloController.php - operación Obtener correcta
+C:\wamp64\www\AECINDI\config\ - con creación de carpeta
+/var/www/html/config/console.php - operación Obtener correcta
+/var/www/html/config/db.php - operación Obtener correcta
+/var/www/html/config/params.php - operación Obtener correcta
+/var/www/html/config/test.php - operación Obtener correcta
+/var/www/html/config/test_db.php - operación Obtener correcta
+/var/www/html/config/web.php - operación Obtener correcta
+C:\wamp64\www\AECINDI\controllers\ - con creación de carpeta
+/var/www/html/controllers/SiteController.php - operación Obtener correcta
+C:\wamp64\www\AECINDI\mail\layouts\ - con creación de carpeta
+/var/www/html/mail/layouts/html.php - operación Obtener correcta
+C:\wamp64\www\AECINDI\models\ - con creación de carpeta
+/var/www/html/models/ContactForm.php - operación Obtener correcta
+/var/www/html/models/LoginForm.php - operación Obtener correcta
+/var/www/html/models/User.php - operación Obtener correcta
+C:\wamp64\www\AECINDI\runtime\debug\ - con creación de carpeta
+/var/www/html/runtime/debug/595d00915695c.data - operación Obtener correcta
+/var/www/html/runtime/debug/595d00992cc32.data - operación Obtener correcta
+/var/www/html/runtime/debug/595d009a6e75e.data - operación Obtener correcta
+/var/www/html/runtime/debug/595d00a8e1f58.data - operación Obtener correcta
+/var/www/html/runtime/debug/595d0abe073bb.data - operación Obtener correcta
+/var/www/html/runtime/debug/595d18a6bea55.data - operación Obtener correcta
+/var/www/html/runtime/debug/595d18aa346bf.data - operación Obtener correcta
+/var/www/html/runtime/debug/595d18b197dbd.data - operación Obtener correcta
+/var/www/html/runtime/debug/595d18b681049.data - operación Obtener correcta
+/var/www/html/runtime/debug/595d18bd5376c.data - operación Obtener correcta
+/var/www/html/runtime/debug/595d18bd64fdc.data - operación Obtener correcta
+/var/www/html/runtime/debug/595d18c357d36.data - operación Obtener correcta
+/var/www/html/runtime/debug/595d18c359d3d.data - operación Obtener correcta
+/var/www/html/runtime/debug/595d18c9e1c67.data - operación Obtener correcta
+/var/www/html/runtime/debug/595d19f401fe3.data - operación Obtener correcta
+/var/www/html/runtime/debug/595d1c628bd9d.data - operación Obtener correcta
+/var/www/html/runtime/debug/595d1c6c0d5ee.data - operación Obtener correcta
+/var/www/html/runtime/debug/595d1c6dce2af.data - operación Obtener correcta
+/var/www/html/runtime/debug/595d1ccc0fa88.data - operación Obtener correcta
+/var/www/html/runtime/debug/595d1cea17cef.data - operación Obtener correcta
+/var/www/html/runtime/debug/595d42d43699a.data - operación Obtener correcta
+/var/www/html/runtime/debug/595d4a83e18cd.data - operación Obtener correcta
+/var/www/html/runtime/debug/595d4ffe3127a.data - operación Obtener correcta
+/var/www/html/runtime/debug/595d6fdf1dbef.data - operación Obtener correcta
+/var/www/html/runtime/debug/595d6fdf319e5.data - operación Obtener correcta
+/var/www/html/runtime/debug/595d6fdf483ca.data - operación Obtener correcta
+/var/www/html/runtime/debug/595d6fdf4e90f.data - operación Obtener correcta
+/var/www/html/runtime/debug/595d6fdf4ff8f.data - operación Obtener correcta
+/var/www/html/runtime/debug/595d6fdf5aaad.data - operación Obtener correcta
+/var/www/html/runtime/debug/595d6fdf5dc96.data - operación Obtener correcta
+/var/www/html/runtime/debug/595d6fdf6199d.data - operación Obtener correcta
+/var/www/html/runtime/debug/595d6fdf66eab.data - operación Obtener correcta
+/var/www/html/runtime/debug/595d6fdf7f46f.data - operación Obtener correcta
+/var/www/html/runtime/debug/595d6fdf831fe.data - operación Obtener correcta
+/var/www/html/runtime/debug/595d6fdf86ef2.data - operación Obtener correcta
+/var/www/html/runtime/debug/595d6fdf8abf5.data - operación Obtener correcta
+/var/www/html/runtime/debug/595d6fdfb8394.data - operación Obtener correcta
+/var/www/html/runtime/debug/595d6fdfbc0ee.data - operación Obtener correcta
+/var/www/html/runtime/debug/595d6fdfbd65b.data - operación Obtener correcta
+/var/www/html/runtime/debug/595d6fdfbfdd9.data - operación Obtener correcta
+/var/www/html/runtime/debug/595e3d66abace.data - operación Obtener correcta
+/var/www/html/runtime/debug/595e3d69321ea.data - operación Obtener correcta
+/var/www/html/runtime/debug/595e3d696e2cd.data - operación Obtener correcta
+/var/www/html/runtime/debug/595e3d7031593.data - operación Obtener correcta
+/var/www/html/runtime/debug/index.data - operación Obtener correcta
+C:\wamp64\www\AECINDI\runtime\logs\ - con creación de carpeta
+/var/www/html/runtime/logs/app.log - operación Obtener correcta
+/var/www/html/runtime/.gitignore - operación Obtener correcta
+C:\wamp64\www\AECINDI\tests\_data\ - con creación de carpeta
+/var/www/html/tests/_data/.gitkeep - operación Obtener correcta
+C:\wamp64\www\AECINDI\tests\_output\ - con creación de carpeta
+/var/www/html/tests/_output/.gitignore - operación Obtener correcta
+C:\wamp64\www\AECINDI\tests\_support\ - con creación de carpeta
+/var/www/html/tests/_support/AcceptanceTester.php - operación Obtener correcta
+/var/www/html/tests/_support/FunctionalTester.php - operación Obtener correcta
+/var/www/html/tests/_support/UnitTester.php - operación Obtener correcta
+C:\wamp64\www\AECINDI\tests\acceptance\ - con creación de carpeta
+/var/www/html/tests/acceptance/_bootstrap.php - operación Obtener correcta
+/var/www/html/tests/acceptance/AboutCest.php - operación Obtener correcta
+/var/www/html/tests/acceptance/ContactCest.php - operación Obtener correcta
+/var/www/html/tests/acceptance/HomeCest.php - operación Obtener correcta
+/var/www/html/tests/acceptance/LoginCest.php - operación Obtener correcta
+C:\wamp64\www\AECINDI\tests\bin\ - con creación de carpeta
+/var/www/html/tests/bin/yii - operación Obtener correcta
+/var/www/html/tests/bin/yii.bat - operación Obtener correcta
+C:\wamp64\www\AECINDI\tests\functional\ - con creación de carpeta
+/var/www/html/tests/functional/_bootstrap.php - operación Obtener correcta
+/var/www/html/tests/functional/ContactFormCest.php - operación Obtener correcta
+/var/www/html/tests/functional/LoginFormCest.php - operación Obtener correcta
+C:\wamp64\www\AECINDI\tests\unit\models\ - con creación de carpeta
+/var/www/html/tests/unit/models/ContactFormTest.php - operación Obtener correcta
+/var/www/html/tests/unit/models/LoginFormTest.php - operación Obtener correcta
+/var/www/html/tests/unit/models/UserTest.php - operación Obtener correcta
+/var/www/html/tests/unit/_bootstrap.php - operación Obtener correcta
+/var/www/html/tests/_bootstrap.php - operación Obtener correcta
+/var/www/html/tests/acceptance.suite.yml.example - operación Obtener correcta
+/var/www/html/tests/functional.suite.yml - operación Obtener correcta
+/var/www/html/tests/unit.suite.yml - operación Obtener correcta
+C:\wamp64\www\AECINDI\vendor\behat\gherkin\bin\ - con creación de carpeta
+/var/www/html/vendor/behat/gherkin/bin/update_i18n - operación Obtener correcta
+C:\wamp64\www\AECINDI\vendor\behat\gherkin\src\Behat\Gherkin\Cache\ - con creación de carpeta
+/var/www/html/vendor/behat/gherkin/src/Behat/Gherkin/Cache/CacheInterface.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/src/Behat/Gherkin/Cache/FileCache.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/src/Behat/Gherkin/Cache/MemoryCache.php - operación Obtener correcta
+C:\wamp64\www\AECINDI\vendor\behat\gherkin\src\Behat\Gherkin\Exception\ - con creación de carpeta
+/var/www/html/vendor/behat/gherkin/src/Behat/Gherkin/Exception/CacheException.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/src/Behat/Gherkin/Exception/Exception.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/src/Behat/Gherkin/Exception/LexerException.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/src/Behat/Gherkin/Exception/NodeException.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/src/Behat/Gherkin/Exception/ParserException.php - operación Obtener correcta
+C:\wamp64\www\AECINDI\vendor\behat\gherkin\src\Behat\Gherkin\Filter\ - con creación de carpeta
+/var/www/html/vendor/behat/gherkin/src/Behat/Gherkin/Filter/ComplexFilter.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/src/Behat/Gherkin/Filter/ComplexFilterInterface.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/src/Behat/Gherkin/Filter/FeatureFilterInterface.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/src/Behat/Gherkin/Filter/FilterInterface.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/src/Behat/Gherkin/Filter/LineFilter.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/src/Behat/Gherkin/Filter/LineRangeFilter.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/src/Behat/Gherkin/Filter/NameFilter.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/src/Behat/Gherkin/Filter/NarrativeFilter.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/src/Behat/Gherkin/Filter/PathsFilter.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/src/Behat/Gherkin/Filter/RoleFilter.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/src/Behat/Gherkin/Filter/SimpleFilter.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/src/Behat/Gherkin/Filter/TagFilter.php - operación Obtener correcta
+C:\wamp64\www\AECINDI\vendor\behat\gherkin\src\Behat\Gherkin\Keywords\ - con creación de carpeta
+/var/www/html/vendor/behat/gherkin/src/Behat/Gherkin/Keywords/ArrayKeywords.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/src/Behat/Gherkin/Keywords/CachedArrayKeywords.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/src/Behat/Gherkin/Keywords/CucumberKeywords.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/src/Behat/Gherkin/Keywords/KeywordsDumper.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/src/Behat/Gherkin/Keywords/KeywordsInterface.php - operación Obtener correcta
+C:\wamp64\www\AECINDI\vendor\behat\gherkin\src\Behat\Gherkin\Loader\ - con creación de carpeta
+/var/www/html/vendor/behat/gherkin/src/Behat/Gherkin/Loader/AbstractFileLoader.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/src/Behat/Gherkin/Loader/ArrayLoader.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/src/Behat/Gherkin/Loader/DirectoryLoader.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/src/Behat/Gherkin/Loader/FileLoaderInterface.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/src/Behat/Gherkin/Loader/GherkinFileLoader.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/src/Behat/Gherkin/Loader/LoaderInterface.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/src/Behat/Gherkin/Loader/YamlFileLoader.php - operación Obtener correcta
+C:\wamp64\www\AECINDI\vendor\behat\gherkin\src\Behat\Gherkin\Node\ - con creación de carpeta
+/var/www/html/vendor/behat/gherkin/src/Behat/Gherkin/Node/ArgumentInterface.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/src/Behat/Gherkin/Node/BackgroundNode.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/src/Behat/Gherkin/Node/ExampleNode.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/src/Behat/Gherkin/Node/ExampleTableNode.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/src/Behat/Gherkin/Node/FeatureNode.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/src/Behat/Gherkin/Node/KeywordNodeInterface.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/src/Behat/Gherkin/Node/NodeInterface.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/src/Behat/Gherkin/Node/OutlineNode.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/src/Behat/Gherkin/Node/PyStringNode.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/src/Behat/Gherkin/Node/ScenarioInterface.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/src/Behat/Gherkin/Node/ScenarioLikeInterface.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/src/Behat/Gherkin/Node/ScenarioNode.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/src/Behat/Gherkin/Node/StepContainerInterface.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/src/Behat/Gherkin/Node/StepNode.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/src/Behat/Gherkin/Node/TableNode.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/src/Behat/Gherkin/Node/TaggedNodeInterface.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/src/Behat/Gherkin/Gherkin.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/src/Behat/Gherkin/Lexer.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/src/Behat/Gherkin/Parser.php - operación Obtener correcta
+C:\wamp64\www\AECINDI\vendor\behat\gherkin\tests\Behat\Gherkin\Cache\ - con creación de carpeta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Cache/FileCacheTest.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Cache/MemoryCacheTest.php - operación Obtener correcta
+C:\wamp64\www\AECINDI\vendor\behat\gherkin\tests\Behat\Gherkin\Filter\Fixtures\full\ - con creación de carpeta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Filter/Fixtures/full/file2 - operación Obtener correcta
+C:\wamp64\www\AECINDI\vendor\behat\gherkin\tests\Behat\Gherkin\Filter\Fixtures\full_path\ - con creación de carpeta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Filter/Fixtures/full_path/file1 - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Filter/FilterTest.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Filter/LineFilterTest.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Filter/LineRangeFilterTest.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Filter/NameFilterTest.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Filter/NarrativeFilterTest.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Filter/PathsFilterTest.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Filter/RoleFilterTest.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Filter/TagFilterTest.php - operación Obtener correcta
+C:\wamp64\www\AECINDI\vendor\behat\gherkin\tests\Behat\Gherkin\Fixtures\directories\phps\ - con creación de carpeta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/directories/phps/some_file.php - operación Obtener correcta
+C:\wamp64\www\AECINDI\vendor\behat\gherkin\tests\Behat\Gherkin\Fixtures\etalons\ - con creación de carpeta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/etalons/addition.yml - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/etalons/background.yml - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/etalons/background_title.yml - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/etalons/big_pystring.yml - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/etalons/clean_tags.yml - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/etalons/commented_out.yml - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/etalons/comments.yml - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/etalons/complex_descriptions.yml - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/etalons/empty.yml - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/etalons/empty_scenario.yml - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/etalons/empty_scenario_without_linefeed.yml - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/etalons/empty_scenarios.yml - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/etalons/fibonacci.yml - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/etalons/hashes_in_quotes.yml - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/etalons/issue_13.yml - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/etalons/ja_addition.yml - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/etalons/long_title_feature.yml - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/etalons/multiline_name.yml - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/etalons/multiline_name_with_newlines.yml - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/etalons/multiplepystrings.yml - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/etalons/outline_with_spaces.yml - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/etalons/outline_with_step_table.yml - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/etalons/pystring.yml - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/etalons/ru_addition.yml - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/etalons/ru_commented.yml - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/etalons/ru_consecutive_calculations.yml - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/etalons/ru_division.yml - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/etalons/start_comments.yml - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/etalons/tables.yml - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/etalons/tags_sample.yml - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/etalons/test_unit.yml - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/etalons/trimpystring.yml - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/etalons/undefined_multiline_args.yml - operación Obtener correcta
+C:\wamp64\www\AECINDI\vendor\behat\gherkin\tests\Behat\Gherkin\Fixtures\features\ - con creación de carpeta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/features/addition.feature - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/features/background.feature - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/features/background_title.feature - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/features/big_pystring.feature - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/features/clean_tags.feature - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/features/commented_out.feature - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/features/comments.feature - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/features/complex_descriptions.feature - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/features/empty.feature - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/features/empty_scenario.feature - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/features/empty_scenario_without_linefeed.feature - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/features/empty_scenarios.feature - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/features/fibonacci.feature - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/features/hashes_in_quotes.feature - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/features/issue_13.feature - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/features/ja_addition.feature - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/features/long_title_feature.feature - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/features/multiline_name.feature - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/features/multiline_name_with_newlines.feature - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/features/multiplepystrings.feature - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/features/outline_with_spaces.feature - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/features/outline_with_step_table.feature - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/features/pystring.feature - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/features/ru_addition.feature - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/features/ru_commented.feature - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/features/ru_consecutive_calculations.feature - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/features/ru_division.feature - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/features/start_comments.feature - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/features/tables.feature - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/features/tags_sample.feature - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/features/test_unit.feature - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/features/trimpystring.feature - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/features/undefined_multiline_args.feature - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Fixtures/i18n.yml - operación Obtener correcta
+C:\wamp64\www\AECINDI\vendor\behat\gherkin\tests\Behat\Gherkin\Keywords\ - con creación de carpeta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Keywords/ArrayKeywordsTest.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Keywords/CachedArrayKeywordsTest.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Keywords/CucumberKeywordsTest.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Keywords/KeywordsDumperTest.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Keywords/KeywordsTest.php - operación Obtener correcta
+C:\wamp64\www\AECINDI\vendor\behat\gherkin\tests\Behat\Gherkin\Loader\ - con creación de carpeta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Loader/ArrayLoaderTest.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Loader/DirectoryLoaderTest.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Loader/GherkinFileLoaderTest.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Loader/YamlFileLoaderTest.php - operación Obtener correcta
+C:\wamp64\www\AECINDI\vendor\behat\gherkin\tests\Behat\Gherkin\Node\ - con creación de carpeta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Node/ExampleNodeTest.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Node/OutlineNodeTest.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Node/PyStringNodeTest.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Node/StepNodeTest.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/Node/TableNodeTest.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/GherkinTest.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/ParserExceptionsTest.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/tests/Behat/Gherkin/ParserTest.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/.gitignore - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/.travis.yml - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/CHANGES.md - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/composer.json - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/CONTRIBUTING.md - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/i18n.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/libpath.php - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/LICENSE - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/package.xml.tpl - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/phpdoc.ini.dist - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/phpunit.xml.dist - operación Obtener correcta
+/var/www/html/vendor/behat/gherkin/README.md - operación Obtener correcta
+C:\wamp64\www\AECINDI\vendor\bin\ - con creación de carpeta
+/var/www/html/vendor/bin/codecept - operación Obtener correcta
+/var/www/html/vendor/bin/markdown - operación Obtener correcta
+/var/www/html/vendor/bin/phpunit - operación Obtener correcta
+/var/www/html/vendor/bin/yii - operación Obtener correcta
+C:\wamp64\www\AECINDI\vendor\bower\bootstrap\dist\css\ - con creación de carpeta
+/var/www/html/vendor/bower/bootstrap/dist/css/bootstrap-theme.css - operación Obtener correcta
+/var/www/html/vendor/bower/bootstrap/dist/css/bootstrap-theme.css.map - operación Obtener correcta
+/var/www/html/vendor/bower/bootstrap/dist/css/bootstrap-theme.min.css - operación Obtener correcta
+/var/www/html/vendor/bower/bootstrap/dist/css/bootstrap-theme.min.css.map - operación Obtener correcta
+/var/www/html/vendor/bower/bootstrap/dist/css/bootstrap.css - operación Obtener correcta
+/var/www/html/vendor/bower/bootstrap/dist/css/bootstrap.css.map - operación Obtener correcta
+/var/www/html/vendor/bower/bootstrap/dist/css/bootstrap.min.css - operación Obtener correcta
+/var/www/html/vendor/bower/bootstrap/dist/css/bootstrap.min.css.map - operación Obtener correcta
+C:\wamp64\www\AECINDI\vendor\bower\bootstrap\dist\fonts\ - con creación de carpeta
+/var/www/html/vendor/bower/bootstrap/dist/fonts/glyphicons-halflings-regular.eot - operación Obtener correcta
+/var/www/html/vendor/bower/bootstrap/dist/fonts/glyphicons-halflings-regular.svg - operación Obtener correcta
+/var/www/html/vendor/bower/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf - operación Obtener correcta
+/var/www/html/vendor/bower/bootstrap/dist/fonts/glyphicons-halflings-regular.woff - operación Obtener correcta
+/var/www/html/vendor/bower/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2 - operación Obtener correcta
+C:\wamp64\www\AECINDI\vendor\bower\bootstrap\dist\js\ - con creación de carpeta
+/var/www/html/vendor/bower/bootstrap/dist/js/bootstrap.js - operación Obtener correcta
+/var/www/html/vendor/bower/bootstrap/dist/js/bootstrap.min.js - operación Obtener correcta
+/var/www/html/vendor/bower/bootstrap/dist/js/npm.js - operación Obtener correcta
+C:\wamp64\www\AECINDI\vendor\bower\bootstrap\fonts\ - con creación de carpeta
+/var/www/html/vendor/bower/bootstrap/fonts/glyphicons-halflings-regular.eot - operación Obtener correcta
+/var/www/html/vendor/bower/bootstrap/fonts/glyphicons-halflings-regular.svg - operación Obtener correcta
+/var/www/html/vendor/bower/bootstrap/fonts/glyphicons-halflings-regular.ttf - operación Obtener correcta
+/var/www/html/vendor/bower/bootstrap/fonts/glyphicons-halflings-regular.woff - operación Obtener correcta
+/var/www/html/vendor/bower/bootstrap/fonts/glyphicons-halflings-regular.woff2 - operación Obtener correcta
+C:\wamp64\www\AECINDI\vendor\bower\bootstrap\grunt\ - con creación de carpeta
+/var/www/html/vendor/bower/bootstrap/grunt/bs-commonjs-generator.js - operación Obtener correcta
+/var/www/html/vendor/bower/bootstrap/grunt/bs-glyphicons-data-generator.js - operación Obtener correcta
+/var/www/html/vendor/bower/bootstrap/grunt/bs-lessdoc-parser.js - operación Obtener correcta
+/var/www/
